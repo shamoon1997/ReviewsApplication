@@ -13,3 +13,5 @@ Runs the app using npm run start. App will be started on port 3000
 
 ![Screenshot](Project-1.png)
 
+### `Example of Live Link of the project is`
+https://nostalgic-thompson-5a480b.netlify.app/
